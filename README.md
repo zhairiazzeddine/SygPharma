@@ -1,59 +1,63 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
-
-## About Laravel
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework. You can also check out [Laravel Learn](https://laravel.com/learn), where you will be guided through building a modern Laravel application.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+  ”SygPharma“  ﻣﻧﺻّ
+ﺔ ﻣا هو هذا الﻣشروع؟  1
+ 
+“sygpharma.ma” هو موقع إلكتروني مخصّص لمدينة سيدي يحيى الغرب يتيح للساكنة معرفة : 
+ الصيدليات المفتوحة حاليًا بالتوقيت العادي . 
+ (المناوبة الليلية، نهاية اﻷسبوع، اﻷعياد والعطل) صيدليات الحراسة . 
+  للمستخدم حسب موقعه الجغرافي، مع توجيه مباشر عبر خرائط غوغل أقرب صيدلية .   . هذا يسهّل وصول المرضى لﻸدوية في أي وقت، ويُظهر صيدليتكم بصورة احترافية ومنظمة على اﻹنترن
+ت
+  ﻣاذا يقدّم للﺻيدلي؟    
+2 : لكل صيدلية حساب خاص )لوحة تحكم( يمكن من خﻼل
+ه
+ تحديث معلومات الصيدلية : 
+o اﻻسم، الحي، العنوان، رقم الهاتف، الواتساب . 
+o (ﻹظهارها على الخريطة) إحداثيات الموقع الجغرافي . 
+ ضبط ساعات العمل العادية  
+o تحديد أوقات العمل لكل يوم من أيام اﻷسبوع . 
+o اختيار اﻷيام المغلقة . 
+ إدارة اﻻستثناءات : 
+o (…صيانة، ظروف طارئة) أيام إغﻼق استثنائية . 
+ متابعة إحصائيات بسيطة : 
+o  الصيدليات اﻷكثر مناوبة /. يومً ا 30 عدد المناوبات خﻼل آخر 
+o توزيع المناوبات حسب اﻷيام واﻷنواع .   . كل ما تقومون به في اللوحة ينعكس مباشرة على واجهة الزائر في الموق
+ع
+  كيفيﺔ الدخول إلى لوحﺔ الﺻيدﻻﻧي  
+3  : https://sygpharma.ma/backo ice الرابط الدخول إلى  .
+1 : إدخال .
+2
+o )يتم تزويدكم به من طرف مسؤول النظام(  . البريد اﻹلكتروني المخصّص لحسابكم 
+o )يتم تزويدكم به من طرف مسؤول النظام( . كلمة المرور التي تم إرسالها لكم أو التي قمتم باختيارها  . لوحﺔ التحكم الخاﺻﺔ بﺻيدليتكم بعد تسجيل الدخول، سيتم توجيهكم إلى  .
+3
+  
+  
+ Page : 2 
+  
+  أهم اﻷقسام في واجهﺔ الﺻيدلي  4
+  ” ( ﺻفحﺔ “لوحﺔ التحكم 
+أ : تظهر فيها باختصا
+ر
+ وضع الصيدلية اليوم : 
+o مناوبة حراسة / خدمة عادية / مغلقة . 
+ إحصائيات سريعة عن المناوبات اﻷخيرة .  ” ( قسم “الﺻيدليات 
+ب
+  اﻻتصال تعديل اسم الصيدلية، الحي، العنوان، أرقام . 
+ (ليظهر بدقة على الخريطة للزوار) ضبط الموقع الجغرافي للصيدلية .  ” ( قسم “ساعات العﻣل 
+ت
+ اختيار كل يوم من اﻷسبوع وتحديد : 
+o  هل الصيدلية مفتوحة أم مغلقة؟ 
+o  ساعة( 24 أوقات اﻻفتتاح واﻹغﻼق )نظام . 
+  كيف يظهر ذلك للزوار؟ 5
+  : عند دخول أي زائر للموق
+ع
+  الواجهة يرى في : 
+o  ًبالتوقيت العادي، مع قسم الﺻيدليات الﻣفتوحﺔ حاليا : 
+ اسم الصيدلية 
+  الحي 
+  العنوان 
+  رقم الهاتف 
+ زر “الموقع عبر الخريطة” الذي يفتح مباشرة على خرائط غوغل . 
+o قسم ﺻيدليات الحراسﺔ اليوم : 
+ الصيدليات المناوبة ليﻼً أو أيام العطل . 
+  المتبقية لنهاية المناوبة عدّاد زمني يبيّن المدة . 
+  أقرب ﺻيدليﺔ لي اﻵن “ يمكن للزائر الضغط على زر ”  . ليتم تحديد أقرب صيدلية له من حيث المسافة، وتُسل ّط عليها اﻹضاءة في الصفحة مع إمكانية فتح المسار على خرائط غوغ
+ل
